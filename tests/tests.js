@@ -2,9 +2,9 @@
 
 'use strict'
 
-//var chai = require('jasmine');
+var jasmine = require('jasmine');
 
-var myApp = require('../library.js');
+var myApp = require('../app/library.js');
 
 describe("Fizz Buzz tests ", function() {
 
