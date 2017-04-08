@@ -1,0 +1,22 @@
+{
+  "name": "self-learning-clinic",
+  "version": "1.0.0",
+  "description": "Self Learning Clinic Bootcamp Day 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lochex/self-learning-clinic.git"
+  },
+  "author": "Elochukwu Okonkwo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lochex/self-learning-clinic/issues"
+  },
+  "homepage": "https://github.com/Lochex/self-learning-clinic#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
